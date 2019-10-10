@@ -1,0 +1,10 @@
+C:\Users\Leero\source\repos\miscellaneousPointSale\VisualLevel\bin\Debug\VisualLevel.exe.config
+C:\Users\Leero\source\repos\miscellaneousPointSale\VisualLevel\bin\Debug\VisualLevel.exe
+C:\Users\Leero\source\repos\miscellaneousPointSale\VisualLevel\bin\Debug\VisualLevel.pdb
+C:\Users\Leero\source\repos\miscellaneousPointSale\VisualLevel\obj\Debug\VisualLevel.csprojAssemblyReference.cache
+C:\Users\Leero\source\repos\miscellaneousPointSale\VisualLevel\obj\Debug\VisualLevel.Form1.resources
+C:\Users\Leero\source\repos\miscellaneousPointSale\VisualLevel\obj\Debug\VisualLevel.Properties.Resources.resources
+C:\Users\Leero\source\repos\miscellaneousPointSale\VisualLevel\obj\Debug\VisualLevel.csproj.GenerateResource.cache
+C:\Users\Leero\source\repos\miscellaneousPointSale\VisualLevel\obj\Debug\VisualLevel.csproj.CoreCompileInputs.cache
+C:\Users\Leero\source\repos\miscellaneousPointSale\VisualLevel\obj\Debug\VisualLevel.exe
+C:\Users\Leero\source\repos\miscellaneousPointSale\VisualLevel\obj\Debug\VisualLevel.pdb
