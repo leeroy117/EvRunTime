@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using VisualLevel;
 
 namespace VisualLevel
 {
@@ -15,7 +16,7 @@ namespace VisualLevel
         public Form1()
         {
             InitializeComponent();
-            this.Controls.Add(new DataGrid());
+            this.Controls.Add(new Table());
         }
 
         private void BtnProducts_Click(object sender, EventArgs e)
@@ -25,7 +26,7 @@ namespace VisualLevel
 
         private void BtnShopping_Click(object sender, EventArgs e)
         {
-            
+            this.Controls.Add(new TabShoppingView());
         }
     }
 }
