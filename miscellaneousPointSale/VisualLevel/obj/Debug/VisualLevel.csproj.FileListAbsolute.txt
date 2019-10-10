@@ -8,3 +8,13 @@ C:\Users\Leero\source\repos\miscellaneousPointSale\VisualLevel\obj\Debug\VisualL
 C:\Users\Leero\source\repos\miscellaneousPointSale\VisualLevel\obj\Debug\VisualLevel.csproj.CoreCompileInputs.cache
 C:\Users\Leero\source\repos\miscellaneousPointSale\VisualLevel\obj\Debug\VisualLevel.exe
 C:\Users\Leero\source\repos\miscellaneousPointSale\VisualLevel\obj\Debug\VisualLevel.pdb
+D:\OneDrive\Universidad\7mo Cuatrimestre REAL\POO\miscellaneousPointSale\VisualLevel\obj\Debug\VisualLevel.csprojAssemblyReference.cache
+D:\OneDrive\Universidad\7mo Cuatrimestre REAL\POO\miscellaneousPointSale\VisualLevel\obj\Debug\VisualLevel.Form1.resources
+D:\OneDrive\Universidad\7mo Cuatrimestre REAL\POO\miscellaneousPointSale\VisualLevel\obj\Debug\VisualLevel.Properties.Resources.resources
+D:\OneDrive\Universidad\7mo Cuatrimestre REAL\POO\miscellaneousPointSale\VisualLevel\obj\Debug\VisualLevel.csproj.GenerateResource.cache
+D:\OneDrive\Universidad\7mo Cuatrimestre REAL\POO\miscellaneousPointSale\VisualLevel\obj\Debug\VisualLevel.csproj.CoreCompileInputs.cache
+D:\OneDrive\Universidad\7mo Cuatrimestre REAL\POO\miscellaneousPointSale\VisualLevel\obj\Debug\VisualLevel.exe
+D:\OneDrive\Universidad\7mo Cuatrimestre REAL\POO\miscellaneousPointSale\VisualLevel\obj\Debug\VisualLevel.pdb
+D:\OneDrive\Universidad\7mo Cuatrimestre REAL\POO\miscellaneousPointSale\VisualLevel\bin\Debug\VisualLevel.exe.config
+D:\OneDrive\Universidad\7mo Cuatrimestre REAL\POO\miscellaneousPointSale\VisualLevel\bin\Debug\VisualLevel.exe
+D:\OneDrive\Universidad\7mo Cuatrimestre REAL\POO\miscellaneousPointSale\VisualLevel\bin\Debug\VisualLevel.pdb

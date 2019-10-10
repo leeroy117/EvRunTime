@@ -16,7 +16,6 @@ namespace VisualLevel
             this.Text = "Insert";
 
             controlProduct.TxtId.Enabled = false;
-
             controlProduct.Btn.Name = "btnInsert";
             controlProduct.Btn.Text = "Insert";
             

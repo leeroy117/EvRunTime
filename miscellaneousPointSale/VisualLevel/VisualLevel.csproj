@@ -55,7 +55,7 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
-    <Compile Include="product\ControlProductView.cs">
+    <Compile Include="product\ControlProduct.cs">
       <SubType>Component</SubType>
     </Compile>
     <Compile Include="Program.cs" />
@@ -72,7 +72,22 @@
     <Compile Include="product\TabProductView.cs">
       <SubType>Component</SubType>
     </Compile>
-    <Compile Include="DataGrid.cs">
+    <Compile Include="shopping\ControlShopping.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="shopping\TabPageDeleteShoppingView.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="shopping\TabPageModifyShoppingView.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="shopping\TabShoppingView.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="shopping\TapPageInsertShoppingView.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Table.cs">
       <SubType>Component</SubType>
     </Compile>
     <EmbeddedResource Include="Form1.resx">
