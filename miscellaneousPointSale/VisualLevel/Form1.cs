@@ -27,5 +27,10 @@ namespace VisualLevel
         {
             
         }
+
+        private void btnSales_Click(object sender, EventArgs e)
+        {
+            this.Controls.Add(new TabSalesView());
+        }
     }
 }

@@ -72,7 +72,41 @@
     <Compile Include="product\TabProductView.cs">
       <SubType>Component</SubType>
     </Compile>
+<<<<<<< Updated upstream
     <Compile Include="DataGrid.cs">
+=======
+    <Compile Include="sales\ControlSales.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="sales\TabPageDeleteSalesView.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="sales\TabPageInsertSalesView.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="sales\TabPageModifySalesView.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="sales\TabSalesView.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="shopping\ControlShopping.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="shopping\TabPageDeleteShoppingView.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="shopping\TabPageModifyShoppingView.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="shopping\TabShoppingView.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="shopping\TabPageInsertShoppingView.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Table.cs">
+>>>>>>> Stashed changes
       <SubType>Component</SubType>
     </Compile>
     <EmbeddedResource Include="Form1.resx">
@@ -100,5 +134,6 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

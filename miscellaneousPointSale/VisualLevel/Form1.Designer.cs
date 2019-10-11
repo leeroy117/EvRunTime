@@ -61,6 +61,7 @@
             this.btnSales.TabIndex = 0;
             this.btnSales.Text = "Sales";
             this.btnSales.UseVisualStyleBackColor = true;
+            this.btnSales.Click += new System.EventHandler(this.btnSales_Click);
             // 
             // Form1
             // 
